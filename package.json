@@ -1,9 +1,7 @@
 {
   "private": true,
   "version": "16.6.1",
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": ["packages/*"],
   "devDependencies": {
     "art": "^0.10.1",
     "babel-cli": "^6.6.5",
